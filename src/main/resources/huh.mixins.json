@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.black_moss.huh.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"HuhMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
